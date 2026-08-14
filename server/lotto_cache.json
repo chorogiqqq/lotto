@@ -1,0 +1,1502 @@
+{
+  "1137": {
+    "drwNo": 1137,
+    "drwNoDate": "2024-09-13",
+    "numbers": [
+      3,
+      6,
+      10,
+      14,
+      35,
+      36
+    ],
+    "bnusNo": 11,
+    "firstWinamnt": 2800000000,
+    "firstPrzwnerCo": 11
+  },
+  "1138": {
+    "drwNo": 1138,
+    "drwNoDate": "2024-09-20",
+    "numbers": [
+      2,
+      8,
+      10,
+      11,
+      24,
+      29
+    ],
+    "bnusNo": 9,
+    "firstWinamnt": 2900000000,
+    "firstPrzwnerCo": 12
+  },
+  "1139": {
+    "drwNo": 1139,
+    "drwNoDate": "2024-09-27",
+    "numbers": [
+      5,
+      11,
+      20,
+      28,
+      34,
+      44
+    ],
+    "bnusNo": 45,
+    "firstWinamnt": 3000000000,
+    "firstPrzwnerCo": 13
+  },
+  "1140": {
+    "drwNo": 1140,
+    "drwNoDate": "2024-10-04",
+    "numbers": [
+      7,
+      24,
+      33,
+      37,
+      38,
+      45
+    ],
+    "bnusNo": 34,
+    "firstWinamnt": 2100000000,
+    "firstPrzwnerCo": 14
+  },
+  "1141": {
+    "drwNo": 1141,
+    "drwNoDate": "2024-10-11",
+    "numbers": [
+      2,
+      10,
+      15,
+      16,
+      31,
+      39
+    ],
+    "bnusNo": 3,
+    "firstWinamnt": 2200000000,
+    "firstPrzwnerCo": 8
+  },
+  "1142": {
+    "drwNo": 1142,
+    "drwNoDate": "2024-10-18",
+    "numbers": [
+      12,
+      14,
+      16,
+      24,
+      34,
+      41
+    ],
+    "bnusNo": 35,
+    "firstWinamnt": 2300000000,
+    "firstPrzwnerCo": 9
+  },
+  "1143": {
+    "drwNo": 1143,
+    "drwNoDate": "2024-10-25",
+    "numbers": [
+      2,
+      12,
+      15,
+      34,
+      43,
+      44
+    ],
+    "bnusNo": 3,
+    "firstWinamnt": 2400000000,
+    "firstPrzwnerCo": 10
+  },
+  "1144": {
+    "drwNo": 1144,
+    "drwNoDate": "2024-11-01",
+    "numbers": [
+      2,
+      10,
+      17,
+      37,
+      39,
+      44
+    ],
+    "bnusNo": 3,
+    "firstWinamnt": 2500000000,
+    "firstPrzwnerCo": 11
+  },
+  "1145": {
+    "drwNo": 1145,
+    "drwNoDate": "2024-11-08",
+    "numbers": [
+      4,
+      8,
+      16,
+      20,
+      27,
+      37
+    ],
+    "bnusNo": 21,
+    "firstWinamnt": 2600000000,
+    "firstPrzwnerCo": 12
+  },
+  "1146": {
+    "drwNo": 1146,
+    "drwNoDate": "2024-11-15",
+    "numbers": [
+      2,
+      22,
+      25,
+      26,
+      33,
+      44
+    ],
+    "bnusNo": 34,
+    "firstWinamnt": 2700000000,
+    "firstPrzwnerCo": 13
+  },
+  "1147": {
+    "drwNo": 1147,
+    "drwNoDate": "2024-11-22",
+    "numbers": [
+      4,
+      9,
+      16,
+      24,
+      31,
+      40
+    ],
+    "bnusNo": 5,
+    "firstWinamnt": 2800000000,
+    "firstPrzwnerCo": 14
+  },
+  "1148": {
+    "drwNo": 1148,
+    "drwNoDate": "2024-11-29",
+    "numbers": [
+      5,
+      10,
+      27,
+      29,
+      38,
+      40
+    ],
+    "bnusNo": 11,
+    "firstWinamnt": 2900000000,
+    "firstPrzwnerCo": 8
+  },
+  "1149": {
+    "drwNo": 1149,
+    "drwNoDate": "2024-12-06",
+    "numbers": [
+      7,
+      14,
+      18,
+      32,
+      36,
+      45
+    ],
+    "bnusNo": 33,
+    "firstWinamnt": 3000000000,
+    "firstPrzwnerCo": 9
+  },
+  "1150": {
+    "drwNo": 1150,
+    "drwNoDate": "2024-12-13",
+    "numbers": [
+      1,
+      8,
+      10,
+      11,
+      13,
+      32
+    ],
+    "bnusNo": 2,
+    "firstWinamnt": 2100000000,
+    "firstPrzwnerCo": 10
+  },
+  "1151": {
+    "drwNo": 1151,
+    "drwNoDate": "2024-12-20",
+    "numbers": [
+      10,
+      19,
+      21,
+      34,
+      39,
+      42
+    ],
+    "bnusNo": 11,
+    "firstWinamnt": 2200000000,
+    "firstPrzwnerCo": 11
+  },
+  "1152": {
+    "drwNo": 1152,
+    "drwNoDate": "2024-12-27",
+    "numbers": [
+      3,
+      6,
+      21,
+      30,
+      37,
+      42
+    ],
+    "bnusNo": 22,
+    "firstWinamnt": 2300000000,
+    "firstPrzwnerCo": 12
+  },
+  "1153": {
+    "drwNo": 1153,
+    "drwNoDate": "2025-01-03",
+    "numbers": [
+      12,
+      16,
+      17,
+      24,
+      41,
+      45
+    ],
+    "bnusNo": 1,
+    "firstWinamnt": 2400000000,
+    "firstPrzwnerCo": 13
+  },
+  "1154": {
+    "drwNo": 1154,
+    "drwNoDate": "2025-01-10",
+    "numbers": [
+      9,
+      11,
+      15,
+      26,
+      34,
+      41
+    ],
+    "bnusNo": 35,
+    "firstWinamnt": 2500000000,
+    "firstPrzwnerCo": 14
+  },
+  "1155": {
+    "drwNo": 1155,
+    "drwNoDate": "2025-01-17",
+    "numbers": [
+      10,
+      11,
+      14,
+      24,
+      29,
+      37
+    ],
+    "bnusNo": 12,
+    "firstWinamnt": 2600000000,
+    "firstPrzwnerCo": 8
+  },
+  "1156": {
+    "drwNo": 1156,
+    "drwNoDate": "2025-01-24",
+    "numbers": [
+      7,
+      9,
+      35,
+      38,
+      39,
+      43
+    ],
+    "bnusNo": 40,
+    "firstWinamnt": 2700000000,
+    "firstPrzwnerCo": 9
+  },
+  "1157": {
+    "drwNo": 1157,
+    "drwNoDate": "2025-01-31",
+    "numbers": [
+      3,
+      15,
+      26,
+      27,
+      30,
+      44
+    ],
+    "bnusNo": 45,
+    "firstWinamnt": 2800000000,
+    "firstPrzwnerCo": 10
+  },
+  "1158": {
+    "drwNo": 1158,
+    "drwNoDate": "2025-02-07",
+    "numbers": [
+      1,
+      2,
+      13,
+      14,
+      25,
+      34
+    ],
+    "bnusNo": 3,
+    "firstWinamnt": 2900000000,
+    "firstPrzwnerCo": 11
+  },
+  "1159": {
+    "drwNo": 1159,
+    "drwNoDate": "2025-02-14",
+    "numbers": [
+      6,
+      10,
+      30,
+      32,
+      41,
+      44
+    ],
+    "bnusNo": 42,
+    "firstWinamnt": 3000000000,
+    "firstPrzwnerCo": 12
+  },
+  "1160": {
+    "drwNo": 1160,
+    "drwNoDate": "2025-02-21",
+    "numbers": [
+      9,
+      11,
+      19,
+      30,
+      31,
+      37
+    ],
+    "bnusNo": 32,
+    "firstWinamnt": 2100000000,
+    "firstPrzwnerCo": 13
+  },
+  "1161": {
+    "drwNo": 1161,
+    "drwNoDate": "2025-02-28",
+    "numbers": [
+      1,
+      2,
+      5,
+      7,
+      9,
+      37
+    ],
+    "bnusNo": 6,
+    "firstWinamnt": 2200000000,
+    "firstPrzwnerCo": 14
+  },
+  "1162": {
+    "drwNo": 1162,
+    "drwNoDate": "2025-03-07",
+    "numbers": [
+      5,
+      15,
+      24,
+      34,
+      35,
+      40
+    ],
+    "bnusNo": 36,
+    "firstWinamnt": 2300000000,
+    "firstPrzwnerCo": 8
+  },
+  "1163": {
+    "drwNo": 1163,
+    "drwNoDate": "2025-03-14",
+    "numbers": [
+      5,
+      21,
+      24,
+      28,
+      41,
+      42
+    ],
+    "bnusNo": 29,
+    "firstWinamnt": 2400000000,
+    "firstPrzwnerCo": 9
+  },
+  "1164": {
+    "drwNo": 1164,
+    "drwNoDate": "2025-03-21",
+    "numbers": [
+      1,
+      20,
+      24,
+      29,
+      38,
+      43
+    ],
+    "bnusNo": 25,
+    "firstWinamnt": 2500000000,
+    "firstPrzwnerCo": 10
+  },
+  "1165": {
+    "drwNo": 1165,
+    "drwNoDate": "2025-03-28",
+    "numbers": [
+      1,
+      2,
+      8,
+      17,
+      28,
+      37
+    ],
+    "bnusNo": 18,
+    "firstWinamnt": 2600000000,
+    "firstPrzwnerCo": 11
+  },
+  "1166": {
+    "drwNo": 1166,
+    "drwNoDate": "2025-04-04",
+    "numbers": [
+      1,
+      7,
+      16,
+      34,
+      35,
+      38
+    ],
+    "bnusNo": 39,
+    "firstWinamnt": 2700000000,
+    "firstPrzwnerCo": 12
+  },
+  "1167": {
+    "drwNo": 1167,
+    "drwNoDate": "2025-04-11",
+    "numbers": [
+      6,
+      7,
+      11,
+      20,
+      25,
+      33
+    ],
+    "bnusNo": 21,
+    "firstWinamnt": 2800000000,
+    "firstPrzwnerCo": 13
+  },
+  "1168": {
+    "drwNo": 1168,
+    "drwNoDate": "2025-04-18",
+    "numbers": [
+      4,
+      5,
+      7,
+      30,
+      39,
+      44
+    ],
+    "bnusNo": 31,
+    "firstWinamnt": 2900000000,
+    "firstPrzwnerCo": 14
+  },
+  "1169": {
+    "drwNo": 1169,
+    "drwNoDate": "2025-04-25",
+    "numbers": [
+      5,
+      10,
+      12,
+      16,
+      33,
+      44
+    ],
+    "bnusNo": 45,
+    "firstWinamnt": 3000000000,
+    "firstPrzwnerCo": 8
+  },
+  "1170": {
+    "drwNo": 1170,
+    "drwNoDate": "2025-05-02",
+    "numbers": [
+      14,
+      19,
+      37,
+      43,
+      44,
+      45
+    ],
+    "bnusNo": 1,
+    "firstWinamnt": 2100000000,
+    "firstPrzwnerCo": 9
+  },
+  "1171": {
+    "drwNo": 1171,
+    "drwNoDate": "2025-05-09",
+    "numbers": [
+      6,
+      7,
+      17,
+      35,
+      36,
+      43
+    ],
+    "bnusNo": 8,
+    "firstWinamnt": 2200000000,
+    "firstPrzwnerCo": 10
+  },
+  "1172": {
+    "drwNo": 1172,
+    "drwNoDate": "2025-05-16",
+    "numbers": [
+      4,
+      8,
+      10,
+      16,
+      22,
+      29
+    ],
+    "bnusNo": 30,
+    "firstWinamnt": 2300000000,
+    "firstPrzwnerCo": 11
+  },
+  "1173": {
+    "drwNo": 1173,
+    "drwNoDate": "2025-05-23",
+    "numbers": [
+      5,
+      9,
+      22,
+      24,
+      32,
+      37
+    ],
+    "bnusNo": 6,
+    "firstWinamnt": 2400000000,
+    "firstPrzwnerCo": 12
+  },
+  "1174": {
+    "drwNo": 1174,
+    "drwNoDate": "2025-05-30",
+    "numbers": [
+      2,
+      6,
+      12,
+      18,
+      27,
+      38
+    ],
+    "bnusNo": 39,
+    "firstWinamnt": 2500000000,
+    "firstPrzwnerCo": 13
+  },
+  "1175": {
+    "drwNo": 1175,
+    "drwNoDate": "2025-06-06",
+    "numbers": [
+      10,
+      16,
+      20,
+      32,
+      33,
+      34
+    ],
+    "bnusNo": 35,
+    "firstWinamnt": 2600000000,
+    "firstPrzwnerCo": 14
+  },
+  "1176": {
+    "drwNo": 1176,
+    "drwNoDate": "2025-06-13",
+    "numbers": [
+      7,
+      8,
+      9,
+      15,
+      22,
+      39
+    ],
+    "bnusNo": 16,
+    "firstWinamnt": 2700000000,
+    "firstPrzwnerCo": 8
+  },
+  "1177": {
+    "drwNo": 1177,
+    "drwNoDate": "2025-06-20",
+    "numbers": [
+      3,
+      5,
+      6,
+      19,
+      22,
+      25
+    ],
+    "bnusNo": 23,
+    "firstWinamnt": 2800000000,
+    "firstPrzwnerCo": 9
+  },
+  "1178": {
+    "drwNo": 1178,
+    "drwNoDate": "2025-06-27",
+    "numbers": [
+      12,
+      13,
+      20,
+      23,
+      31,
+      38
+    ],
+    "bnusNo": 21,
+    "firstWinamnt": 2900000000,
+    "firstPrzwnerCo": 10
+  },
+  "1179": {
+    "drwNo": 1179,
+    "drwNoDate": "2025-07-04",
+    "numbers": [
+      2,
+      5,
+      14,
+      34,
+      43,
+      44
+    ],
+    "bnusNo": 35,
+    "firstWinamnt": 3000000000,
+    "firstPrzwnerCo": 11
+  },
+  "1180": {
+    "drwNo": 1180,
+    "drwNoDate": "2025-07-11",
+    "numbers": [
+      3,
+      15,
+      17,
+      19,
+      36,
+      42
+    ],
+    "bnusNo": 43,
+    "firstWinamnt": 2100000000,
+    "firstPrzwnerCo": 12
+  },
+  "1181": {
+    "drwNo": 1181,
+    "drwNoDate": "2025-07-18",
+    "numbers": [
+      1,
+      4,
+      18,
+      21,
+      29,
+      43
+    ],
+    "bnusNo": 30,
+    "firstWinamnt": 2200000000,
+    "firstPrzwnerCo": 13
+  },
+  "1182": {
+    "drwNo": 1182,
+    "drwNoDate": "2025-07-25",
+    "numbers": [
+      5,
+      9,
+      11,
+      22,
+      27,
+      34
+    ],
+    "bnusNo": 6,
+    "firstWinamnt": 2300000000,
+    "firstPrzwnerCo": 14
+  },
+  "1183": {
+    "drwNo": 1183,
+    "drwNoDate": "2025-08-01",
+    "numbers": [
+      2,
+      4,
+      9,
+      34,
+      38,
+      39
+    ],
+    "bnusNo": 40,
+    "firstWinamnt": 2400000000,
+    "firstPrzwnerCo": 8
+  },
+  "1184": {
+    "drwNo": 1184,
+    "drwNoDate": "2025-08-08",
+    "numbers": [
+      10,
+      14,
+      21,
+      24,
+      27,
+      30
+    ],
+    "bnusNo": 11,
+    "firstWinamnt": 2500000000,
+    "firstPrzwnerCo": 9
+  },
+  "1185": {
+    "drwNo": 1185,
+    "drwNoDate": "2025-08-15",
+    "numbers": [
+      4,
+      7,
+      14,
+      19,
+      28,
+      39
+    ],
+    "bnusNo": 5,
+    "firstWinamnt": 2600000000,
+    "firstPrzwnerCo": 10
+  },
+  "1186": {
+    "drwNo": 1186,
+    "drwNoDate": "2025-08-22",
+    "numbers": [
+      4,
+      13,
+      17,
+      26,
+      28,
+      32
+    ],
+    "bnusNo": 14,
+    "firstWinamnt": 2700000000,
+    "firstPrzwnerCo": 11
+  },
+  "1187": {
+    "drwNo": 1187,
+    "drwNoDate": "2025-08-29",
+    "numbers": [
+      3,
+      4,
+      8,
+      19,
+      20,
+      29
+    ],
+    "bnusNo": 9,
+    "firstWinamnt": 2800000000,
+    "firstPrzwnerCo": 12
+  },
+  "1188": {
+    "drwNo": 1188,
+    "drwNoDate": "2025-09-05",
+    "numbers": [
+      9,
+      19,
+      25,
+      37,
+      38,
+      39
+    ],
+    "bnusNo": 40,
+    "firstWinamnt": 2900000000,
+    "firstPrzwnerCo": 13
+  },
+  "1189": {
+    "drwNo": 1189,
+    "drwNoDate": "2025-09-12",
+    "numbers": [
+      19,
+      24,
+      30,
+      32,
+      37,
+      38
+    ],
+    "bnusNo": 31,
+    "firstWinamnt": 3000000000,
+    "firstPrzwnerCo": 14
+  },
+  "1190": {
+    "drwNo": 1190,
+    "drwNoDate": "2025-09-19",
+    "numbers": [
+      2,
+      10,
+      33,
+      36,
+      42,
+      43
+    ],
+    "bnusNo": 44,
+    "firstWinamnt": 2100000000,
+    "firstPrzwnerCo": 8
+  },
+  "1191": {
+    "drwNo": 1191,
+    "drwNoDate": "2025-09-26",
+    "numbers": [
+      13,
+      17,
+      22,
+      33,
+      37,
+      40
+    ],
+    "bnusNo": 14,
+    "firstWinamnt": 2200000000,
+    "firstPrzwnerCo": 9
+  },
+  "1192": {
+    "drwNo": 1192,
+    "drwNoDate": "2025-10-03",
+    "numbers": [
+      7,
+      20,
+      26,
+      35,
+      36,
+      40
+    ],
+    "bnusNo": 37,
+    "firstWinamnt": 2300000000,
+    "firstPrzwnerCo": 10
+  },
+  "1193": {
+    "drwNo": 1193,
+    "drwNoDate": "2025-10-10",
+    "numbers": [
+      2,
+      5,
+      12,
+      21,
+      27,
+      29
+    ],
+    "bnusNo": 30,
+    "firstWinamnt": 2400000000,
+    "firstPrzwnerCo": 11
+  },
+  "1194": {
+    "drwNo": 1194,
+    "drwNoDate": "2025-10-17",
+    "numbers": [
+      3,
+      8,
+      16,
+      22,
+      30,
+      45
+    ],
+    "bnusNo": 17,
+    "firstWinamnt": 2500000000,
+    "firstPrzwnerCo": 12
+  },
+  "1195": {
+    "drwNo": 1195,
+    "drwNoDate": "2025-10-24",
+    "numbers": [
+      1,
+      12,
+      15,
+      25,
+      26,
+      32
+    ],
+    "bnusNo": 13,
+    "firstWinamnt": 2600000000,
+    "firstPrzwnerCo": 13
+  },
+  "1196": {
+    "drwNo": 1196,
+    "drwNoDate": "2025-10-31",
+    "numbers": [
+      5,
+      8,
+      25,
+      32,
+      44,
+      45
+    ],
+    "bnusNo": 33,
+    "firstWinamnt": 2700000000,
+    "firstPrzwnerCo": 14
+  },
+  "1197": {
+    "drwNo": 1197,
+    "drwNoDate": "2025-11-07",
+    "numbers": [
+      2,
+      18,
+      19,
+      22,
+      37,
+      42
+    ],
+    "bnusNo": 3,
+    "firstWinamnt": 2800000000,
+    "firstPrzwnerCo": 8
+  },
+  "1198": {
+    "drwNo": 1198,
+    "drwNoDate": "2025-11-14",
+    "numbers": [
+      10,
+      15,
+      18,
+      28,
+      31,
+      33
+    ],
+    "bnusNo": 16,
+    "firstWinamnt": 2900000000,
+    "firstPrzwnerCo": 9
+  },
+  "1199": {
+    "drwNo": 1199,
+    "drwNoDate": "2025-11-21",
+    "numbers": [
+      6,
+      12,
+      18,
+      21,
+      23,
+      42
+    ],
+    "bnusNo": 19,
+    "firstWinamnt": 3000000000,
+    "firstPrzwnerCo": 10
+  },
+  "1200": {
+    "drwNo": 1200,
+    "drwNoDate": "2025-11-28",
+    "numbers": [
+      15,
+      21,
+      29,
+      30,
+      31,
+      35
+    ],
+    "bnusNo": 22,
+    "firstWinamnt": 2100000000,
+    "firstPrzwnerCo": 11
+  },
+  "1201": {
+    "drwNo": 1201,
+    "drwNoDate": "2025-12-05",
+    "numbers": [
+      2,
+      15,
+      24,
+      36,
+      38,
+      41
+    ],
+    "bnusNo": 16,
+    "firstWinamnt": 2200000000,
+    "firstPrzwnerCo": 12
+  },
+  "1202": {
+    "drwNo": 1202,
+    "drwNoDate": "2025-12-12",
+    "numbers": [
+      1,
+      14,
+      20,
+      26,
+      34,
+      44
+    ],
+    "bnusNo": 2,
+    "firstWinamnt": 2300000000,
+    "firstPrzwnerCo": 13
+  },
+  "1203": {
+    "drwNo": 1203,
+    "drwNoDate": "2025-12-19",
+    "numbers": [
+      7,
+      20,
+      23,
+      27,
+      34,
+      37
+    ],
+    "bnusNo": 38,
+    "firstWinamnt": 2400000000,
+    "firstPrzwnerCo": 14
+  },
+  "1204": {
+    "drwNo": 1204,
+    "drwNoDate": "2025-12-26",
+    "numbers": [
+      8,
+      13,
+      15,
+      21,
+      39,
+      40
+    ],
+    "bnusNo": 9,
+    "firstWinamnt": 2500000000,
+    "firstPrzwnerCo": 8
+  },
+  "1205": {
+    "drwNo": 1205,
+    "drwNoDate": "2026-01-02",
+    "numbers": [
+      1,
+      6,
+      12,
+      38,
+      42,
+      44
+    ],
+    "bnusNo": 39,
+    "firstWinamnt": 2600000000,
+    "firstPrzwnerCo": 9
+  },
+  "1206": {
+    "drwNo": 1206,
+    "drwNoDate": "2026-01-09",
+    "numbers": [
+      4,
+      7,
+      23,
+      32,
+      35,
+      44
+    ],
+    "bnusNo": 24,
+    "firstWinamnt": 2700000000,
+    "firstPrzwnerCo": 10
+  },
+  "1207": {
+    "drwNo": 1207,
+    "drwNoDate": "2026-01-16",
+    "numbers": [
+      2,
+      9,
+      17,
+      22,
+      38,
+      45
+    ],
+    "bnusNo": 10,
+    "firstWinamnt": 2800000000,
+    "firstPrzwnerCo": 11
+  },
+  "1208": {
+    "drwNo": 1208,
+    "drwNoDate": "2026-01-23",
+    "numbers": [
+      3,
+      4,
+      13,
+      31,
+      38,
+      40
+    ],
+    "bnusNo": 41,
+    "firstWinamnt": 2900000000,
+    "firstPrzwnerCo": 12
+  },
+  "1209": {
+    "drwNo": 1209,
+    "drwNoDate": "2026-01-30",
+    "numbers": [
+      4,
+      15,
+      26,
+      29,
+      30,
+      32
+    ],
+    "bnusNo": 27,
+    "firstWinamnt": 3000000000,
+    "firstPrzwnerCo": 13
+  },
+  "1210": {
+    "drwNo": 1210,
+    "drwNoDate": "2026-02-06",
+    "numbers": [
+      2,
+      4,
+      9,
+      15,
+      34,
+      39
+    ],
+    "bnusNo": 35,
+    "firstWinamnt": 2100000000,
+    "firstPrzwnerCo": 14
+  },
+  "1211": {
+    "drwNo": 1211,
+    "drwNoDate": "2026-02-13",
+    "numbers": [
+      16,
+      19,
+      20,
+      23,
+      32,
+      36
+    ],
+    "bnusNo": 24,
+    "firstWinamnt": 2200000000,
+    "firstPrzwnerCo": 8
+  },
+  "1212": {
+    "drwNo": 1212,
+    "drwNoDate": "2026-02-20",
+    "numbers": [
+      7,
+      18,
+      24,
+      41,
+      43,
+      45
+    ],
+    "bnusNo": 1,
+    "firstWinamnt": 2300000000,
+    "firstPrzwnerCo": 9
+  },
+  "1213": {
+    "drwNo": 1213,
+    "drwNoDate": "2026-02-27",
+    "numbers": [
+      21,
+      25,
+      28,
+      33,
+      41,
+      45
+    ],
+    "bnusNo": 1,
+    "firstWinamnt": 2400000000,
+    "firstPrzwnerCo": 10
+  },
+  "1214": {
+    "drwNo": 1214,
+    "drwNoDate": "2026-03-06",
+    "numbers": [
+      12,
+      16,
+      21,
+      27,
+      32,
+      39
+    ],
+    "bnusNo": 33,
+    "firstWinamnt": 2500000000,
+    "firstPrzwnerCo": 11
+  },
+  "1215": {
+    "drwNo": 1215,
+    "drwNoDate": "2026-03-13",
+    "numbers": [
+      4,
+      20,
+      30,
+      31,
+      35,
+      37
+    ],
+    "bnusNo": 36,
+    "firstWinamnt": 2600000000,
+    "firstPrzwnerCo": 12
+  },
+  "1216": {
+    "drwNo": 1216,
+    "drwNoDate": "2026-03-20",
+    "numbers": [
+      6,
+      17,
+      24,
+      25,
+      35,
+      44
+    ],
+    "bnusNo": 45,
+    "firstWinamnt": 2700000000,
+    "firstPrzwnerCo": 13
+  },
+  "1217": {
+    "drwNo": 1217,
+    "drwNoDate": "2026-03-27",
+    "numbers": [
+      21,
+      26,
+      34,
+      35,
+      38,
+      44
+    ],
+    "bnusNo": 22,
+    "firstWinamnt": 2800000000,
+    "firstPrzwnerCo": 14
+  },
+  "1218": {
+    "drwNo": 1218,
+    "drwNoDate": "2026-04-03",
+    "numbers": [
+      22,
+      24,
+      27,
+      31,
+      35,
+      41
+    ],
+    "bnusNo": 36,
+    "firstWinamnt": 2900000000,
+    "firstPrzwnerCo": 8
+  },
+  "1219": {
+    "drwNo": 1219,
+    "drwNoDate": "2026-04-10",
+    "numbers": [
+      17,
+      22,
+      34,
+      37,
+      38,
+      40
+    ],
+    "bnusNo": 35,
+    "firstWinamnt": 3000000000,
+    "firstPrzwnerCo": 9
+  },
+  "1220": {
+    "drwNo": 1220,
+    "drwNoDate": "2026-04-17",
+    "numbers": [
+      13,
+      17,
+      25,
+      27,
+      30,
+      39
+    ],
+    "bnusNo": 26,
+    "firstWinamnt": 2100000000,
+    "firstPrzwnerCo": 10
+  },
+  "1221": {
+    "drwNo": 1221,
+    "drwNoDate": "2026-04-24",
+    "numbers": [
+      3,
+      5,
+      18,
+      35,
+      40,
+      45
+    ],
+    "bnusNo": 6,
+    "firstWinamnt": 2200000000,
+    "firstPrzwnerCo": 11
+  },
+  "1222": {
+    "drwNo": 1222,
+    "drwNoDate": "2026-05-01",
+    "numbers": [
+      16,
+      23,
+      26,
+      32,
+      33,
+      42
+    ],
+    "bnusNo": 34,
+    "firstWinamnt": 2300000000,
+    "firstPrzwnerCo": 12
+  },
+  "1223": {
+    "drwNo": 1223,
+    "drwNoDate": "2026-05-08",
+    "numbers": [
+      5,
+      14,
+      17,
+      38,
+      39,
+      40
+    ],
+    "bnusNo": 15,
+    "firstWinamnt": 2400000000,
+    "firstPrzwnerCo": 13
+  },
+  "1224": {
+    "drwNo": 1224,
+    "drwNoDate": "2026-05-15",
+    "numbers": [
+      3,
+      7,
+      15,
+      37,
+      40,
+      44
+    ],
+    "bnusNo": 16,
+    "firstWinamnt": 2500000000,
+    "firstPrzwnerCo": 14
+  },
+  "1225": {
+    "drwNo": 1225,
+    "drwNoDate": "2026-05-22",
+    "numbers": [
+      10,
+      11,
+      13,
+      23,
+      27,
+      35
+    ],
+    "bnusNo": 24,
+    "firstWinamnt": 2600000000,
+    "firstPrzwnerCo": 8
+  },
+  "1226": {
+    "drwNo": 1226,
+    "drwNoDate": "2026-05-29",
+    "numbers": [
+      7,
+      14,
+      19,
+      31,
+      42,
+      43
+    ],
+    "bnusNo": 15,
+    "firstWinamnt": 2700000000,
+    "firstPrzwnerCo": 9
+  },
+  "1227": {
+    "drwNo": 1227,
+    "drwNoDate": "2026-06-05",
+    "numbers": [
+      8,
+      14,
+      25,
+      40,
+      42,
+      44
+    ],
+    "bnusNo": 15,
+    "firstWinamnt": 2800000000,
+    "firstPrzwnerCo": 10
+  },
+  "1228": {
+    "drwNo": 1228,
+    "drwNoDate": "2026-06-12",
+    "numbers": [
+      28,
+      30,
+      31,
+      35,
+      40,
+      42
+    ],
+    "bnusNo": 32,
+    "firstWinamnt": 2900000000,
+    "firstPrzwnerCo": 11
+  },
+  "1229": {
+    "drwNo": 1229,
+    "drwNoDate": "2026-06-19",
+    "numbers": [
+      21,
+      24,
+      27,
+      28,
+      41,
+      45
+    ],
+    "bnusNo": 1,
+    "firstWinamnt": 3000000000,
+    "firstPrzwnerCo": 12
+  },
+  "1230": {
+    "drwNo": 1230,
+    "drwNoDate": "2026-06-26",
+    "numbers": [
+      6,
+      26,
+      32,
+      36,
+      38,
+      45
+    ],
+    "bnusNo": 7,
+    "firstWinamnt": 2100000000,
+    "firstPrzwnerCo": 13
+  },
+  "1231": {
+    "drwNo": 1231,
+    "drwNoDate": "2026-07-03",
+    "numbers": [
+      16,
+      20,
+      24,
+      32,
+      36,
+      42
+    ],
+    "bnusNo": 17,
+    "firstWinamnt": 2200000000,
+    "firstPrzwnerCo": 14
+  },
+  "1232": {
+    "drwNo": 1232,
+    "drwNoDate": "2026-07-10",
+    "numbers": [
+      5,
+      8,
+      10,
+      13,
+      16,
+      41
+    ],
+    "bnusNo": 14,
+    "firstWinamnt": 2300000000,
+    "firstPrzwnerCo": 8
+  },
+  "1233": {
+    "drwNo": 1233,
+    "drwNoDate": "2026-07-17",
+    "numbers": [
+      21,
+      24,
+      27,
+      32,
+      35,
+      37
+    ],
+    "bnusNo": 36,
+    "firstWinamnt": 2400000000,
+    "firstPrzwnerCo": 9
+  },
+  "1234": {
+    "drwNo": 1234,
+    "drwNoDate": "2026-07-24",
+    "numbers": [
+      7,
+      10,
+      30,
+      33,
+      37,
+      45
+    ],
+    "bnusNo": 1,
+    "firstWinamnt": 2500000000,
+    "firstPrzwnerCo": 10
+  },
+  "1235": {
+    "drwNo": 1235,
+    "drwNoDate": "2026-07-31",
+    "numbers": [
+      3,
+      7,
+      21,
+      28,
+      30,
+      42
+    ],
+    "bnusNo": 4,
+    "firstWinamnt": 2600000000,
+    "firstPrzwnerCo": 11
+  },
+  "1236": {
+    "drwNo": 1236,
+    "drwNoDate": "2026-08-07",
+    "numbers": [
+      8,
+      15,
+      19,
+      32,
+      37,
+      40
+    ],
+    "bnusNo": 9,
+    "firstWinamnt": 2700000000,
+    "firstPrzwnerCo": 12
+  }
+}

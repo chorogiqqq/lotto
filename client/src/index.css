@@ -1,0 +1,112 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #0b0f19;
+    background-image: 
+      radial-gradient(at 0% 0%, rgba(251, 196, 0, 0.08) 0px, transparent 50%),
+      radial-gradient(at 100% 0%, rgba(105, 200, 242, 0.08) 0px, transparent 50%),
+      radial-gradient(at 50% 100%, rgba(255, 114, 114, 0.05) 0px, transparent 50%);
+    background-attachment: fixed;
+    color: #e2e8f0;
+  }
+}
+
+/* Authentic 3D Lotto Ball Styles */
+.lotto-ball {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 9999px;
+  font-weight: 800;
+  box-shadow: 
+    inset -3px -3px 6px rgba(0, 0, 0, 0.35),
+    inset 3px 3px 6px rgba(255, 255, 255, 0.45),
+    0 4px 10px rgba(0, 0, 0, 0.25);
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  user-select: none;
+}
+
+.lotto-ball:hover {
+  transform: translateY(-2px) scale(1.06);
+  box-shadow: 
+    inset -3px -3px 6px rgba(0, 0, 0, 0.35),
+    inset 3px 3px 6px rgba(255, 255, 255, 0.5),
+    0 8px 16px rgba(0, 0, 0, 0.35);
+}
+
+/* Ball Color Definitions */
+/* 1~10: Yellow (#FBC400) */
+.ball-range-1 {
+  background: radial-gradient(circle at 35% 35%, #fff5c0 0%, #FBC400 65%, #d4a000 100%);
+  color: #1e1b4b;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);
+}
+
+/* 11~20: Blue (#69C8F2) */
+.ball-range-2 {
+  background: radial-gradient(circle at 35% 35%, #d9f3ff 0%, #69C8F2 65%, #2a9bc7 100%);
+  color: #ffffff;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+}
+
+/* 21~30: Red (#FF7272) */
+.ball-range-3 {
+  background: radial-gradient(circle at 35% 35%, #ffe0e0 0%, #FF7272 65%, #d63838 100%);
+  color: #ffffff;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+}
+
+/* 31~40: Gray (#AAAAAA) */
+.ball-range-4 {
+  background: radial-gradient(circle at 35% 35%, #f1f5f9 0%, #AAAAAA 65%, #71717a 100%);
+  color: #ffffff;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+/* 41~45: Green (#B0D840) */
+.ball-range-5 {
+  background: radial-gradient(circle at 35% 35%, #f1faab 0%, #B0D840 65%, #80a417 100%);
+  color: #143505;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);
+}
+
+/* Glassmorphic Container */
+.glass-panel {
+  background: rgba(15, 23, 42, 0.75);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.5);
+}
+
+.glass-panel-interactive {
+  transition: all 0.3s ease;
+}
+
+.glass-panel-interactive:hover {
+  border-color: rgba(255, 255, 255, 0.18);
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.6);
+}
+
+/* Animation Utilities */
+@keyframes spin-slow {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@keyframes pop-in {
+  0% { transform: scale(0.6); opacity: 0; }
+  80% { transform: scale(1.1); }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+.animate-spin-slow {
+  animation: spin-slow 12s linear infinite;
+}
+
+.animate-pop-in {
+  animation: pop-in 0.35s cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
+}
